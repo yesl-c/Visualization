@@ -17,4 +17,4 @@
 ---
 
 * 시각화 라이브러리 : matplotlib, seaborn, folium
-* 사용된 plot 종류 : barplot, lineplot, swarmplot, heatmap, histplot, pairplot 등
+* plot 종류 : barplot, lineplot, swarmplot, heatmap, histplot, pairplot 등
