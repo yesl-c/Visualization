@@ -24,5 +24,9 @@
 ---
 
 * 코드의 제일 마지막에 위치한 folium 을 통한 구글 맵 시각화는 [subway_final.html](https://github.com/yesl-c/project01_Visualization/blob/master/source/subway_final.html) 을 다운받아서 실행하면 아래와 같이 확인할 수 있다.
+
+
+
+
 ![png](source/img/output_html.PNG)
 
