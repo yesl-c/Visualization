@@ -1690,6 +1690,8 @@ for n in df.index:
 
 map
 ```
+![png](img/output_map.png)
+
 
 ```python
 map.save('subway_map.html')
